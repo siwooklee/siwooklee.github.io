@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkplacing_circle"]=self["webpackChunkplacing_circle"]||[]).push([[443],{5399:function(n,t,u){u.r(t),u.d(t,{default:function(){return a}});var c=function(){var n=this;n._self._c;return n._m(0)},l=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("This is an about page")])])}],e=u(1001),i={},s=(0,e.Z)(i,c,l,!1,null,null,null),a=s.exports}}]);
+//# sourceMappingURL=about.88114d1f.js.map
